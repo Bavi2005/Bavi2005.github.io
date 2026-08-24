@@ -535,6 +535,9 @@ body {
 .project-meta .ts::before { background: #3178c6; }
 .project-meta .docker::before { background: #384d54; }
 .project-meta .html::before { background: #e34c26; }
+.project-meta .py::before { background: #ffd43b; }
+.project-meta .db::before { background: #f29111; }
+.project-meta .ai::before { background: #00ff6c; }
 
 .badge-win {
   border: 1px solid var(--accent) !important;

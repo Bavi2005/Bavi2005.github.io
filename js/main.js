@@ -35,11 +35,11 @@ if (!reducedMotion) {
 }
 
 const phrases = [
-  "Developer // Cybersecurity Enthusiast // Tech Explorer",
-  "Coding in the Neon Matrix",
-  "Systems Programming in C @ 42 KL",
-  "Building Tech That Never Sleeps...",
-  "Fortifying the Future with Security"
+  "Full Stack Developer // AI Platform Builder",
+  "Next.js · FastAPI · Ollama · RAG",
+  "Owning Features End-to-End, DB to UI",
+  "1st Place @ HackLab.20 — TriShade AI",
+  "Training at 42 Malaysia"
 ];
 
 const typedEl = document.getElementById("typed");
